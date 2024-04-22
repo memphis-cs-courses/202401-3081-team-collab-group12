@@ -3,5 +3,10 @@ class PagesController < ApplicationController
   end
 
   def imnobodysoyeah
+
+  def cherrymae1
+  end
+  
+  def mcrayman
   end
 end
