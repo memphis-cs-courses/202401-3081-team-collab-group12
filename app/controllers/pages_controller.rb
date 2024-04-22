@@ -3,6 +3,8 @@ class PagesController < ApplicationController
   end
 
   def imnobodysoyeah
+    
+  end
 
   def cherrymae1
   end
