@@ -9,9 +9,9 @@ Rails.application.routes.draw do
   # root "posts#index"
   root 'pages#index'
 
-<<<<<<< HEAD
   get 'imnobodysoyeah', to: 'pages#imnobodysoyeah', as: 'imnobodysoyeah'
-=======
   get 'cherrymae1', to: 'pages#cherrymae1', as: 'cherrymae1'
->>>>>>> 9bd85aceed76a6558579d32d8c873a9394d4576f
+
+  get 'mcn3i1', to: 'pages#mcn3i1', as:'mcn3i1'
+
 end

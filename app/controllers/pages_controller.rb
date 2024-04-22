@@ -11,4 +11,8 @@ class PagesController < ApplicationController
   
   def mcrayman
   end
+
+  def mcn3i1
+  end
 end
+
